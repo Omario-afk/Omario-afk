@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Omar RL Khadiji! 👋
 
-<!--
-**Omario-afk/Omario-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Software Developer & Data Analyst** with a strong background in **Python, AI, and Web Development**. I love building applications, analyzing data, and solving complex problems.
 
-Here are some ideas to get you started:
+🎓 **Bachelor's Degree in Computer Engineering** - Eastern Mediterranean University (2019-2024) (Graduated with Honors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 **Advanced Data Analytics Certificate** - Google - Coursera (2024)
+
+🔬 **Graduation Project:** BeamEye - A pedestrian detection desktop app using **TensorFlow, OpenCV, and Tkinter**.
+
+---
+
+## 💻 Technical Skills
+- **Programming:** Python, Java, JavaScript, C++, SQL  
+- **Frameworks & Tools:** Django, TensorFlow, OpenCV, Selenium, Tkinter, PyCryptodome  
+- **Databases:** SQLite, MongoDB (Mongoose)  
+- **Web Development:** React, Node.js, Django (DRF)  
+
+---
+
+## 🛠️ Projects
+- **Reddit Scraper** - A desktop app for video scraping using **Requests, Selenium, Tkinter**
+- **University Website** - A staff and student portal using **Django, SQLite, PyCryptodome**
+- **Car Parts Sale Announcements Website** (WIP) - Using **Node.js, React, Django (DRF), MongoDB (Mongoose)**
+
+---
+
+## 🌍 Languages
+- **English** (Fluent)
+- **Arabic** (Native)
+- **French** (Fluent)
+
+---
+
+## 📫 Get in Touch
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **GitHub:** [Your GitHub Profile](#)
+- **Email:** [Your Email](#)
+
+Let's connect and build something awesome together! 🚀
