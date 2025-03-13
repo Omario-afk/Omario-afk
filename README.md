@@ -34,8 +34,7 @@ I'm a passionate **Software Developer & Data Analyst** with a strong background 
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
-- **Email:** [Your Email](#)
+- **LinkedIn:** [https://www.linkedin.com/in/elkhadiji-omar/](#)
+- **Email:** [omarelkhadiji@gmail.com](#)
 
 Let's connect and build something awesome together! 🚀
