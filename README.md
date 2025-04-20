@@ -1,4 +1,4 @@
-# Hi there, I'm Omar RL Khadiji! 👋  
+# Hi there, I'm Omar EL Khadiji! 👋  
 
 ## 🚀 About Me  
 I'm a **Software Developer & Data Analyst** with expertise in **Python, AI, and Web Development**. I specialize in **full-stack development** and **data-driven solutions**, blending technical skills with problem-solving to build impactful applications.  
